@@ -1,0 +1,6 @@
+{
+  "name": "Image Resizer Pro",
+  "description": "A powerful web application to batch resize, upscale, and convert multiple images with preserved initial filenames, anti-distortion fitting modes, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
